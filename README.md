@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 
 <!---
-Alwaysloveprevailing/Alwaysloveprevailing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Alwaysloveprevailing/Alwaysloveprevailing is a ✨ special ✨ repository because its `README.md` (this file)
+
+hi everyone I'm just kinda new here and want to find meaningful things to occupy my time. hope everyone is having a good day
+not sure how I got in here or why 
